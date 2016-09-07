@@ -1,0 +1,8 @@
+     工号      院系    姓名         电话    密码                          邮箱
+    40401  人文学院  齐英艳  13053214189    1234         qichunyan@bupt.edu.cn
+    40402    信通院    梁栋  13353214198    1234         liangdong@bupt.edu.cn
+    40403    理学院  金光生  13424334344    1234     jinguangsheng@bupt.edu.cn
+    40404    理学院  默会霞  12342444555    1234                     afwergerf
+    40405    人文院  张大仙  13423141244    1234       zhangdaxian@bupt.edu.cn
+    40406    体育院  野球帝  23434444434    1234           yeqiudi@bupt.edu.cn
+    40407    理学院  张文博  12343458873    1234        zhangwenbo@bupt.edu.cn
