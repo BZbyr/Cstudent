@@ -3,4 +3,4 @@
 
 直接编译运行cpp文件就可以。
 
-![tupian](http://ockj16306.bkt.clouddn.com/image/blog/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+![流程图](http://ockj16306.bkt.clouddn.com/image/blog/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
